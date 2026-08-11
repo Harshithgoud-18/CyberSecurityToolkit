@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+
+# Password Manager sensitive data
+keys/*.key
+data/passwords.json
+
+# Logs
+logs/*.log
+
+# Encrypted files
+encrypted/*.enc
+
+# Decrypted files
+decrypted/*
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
