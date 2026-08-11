@@ -89,7 +89,7 @@ python main.py
 
 ## 📸 Sample Output
 
-```text
+text
 ========================================
       Cyber Security Toolkit
 ========================================
@@ -109,7 +109,7 @@ python main.py
 11. Vulnerability Scanner
 12. File Encryption Tool
 0. Exit
-```
+
 
 ---
 
