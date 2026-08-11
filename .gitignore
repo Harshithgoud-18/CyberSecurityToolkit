@@ -2,23 +2,35 @@
 __pycache__/
 *.pyc
 *.pyo
+*.pyd
 
 # Virtual environments
 venv/
 .venv/
+env/
 
 # Password Manager sensitive data
-keys/*.key
+keys/
 data/passwords.json
 
 # Logs
-logs/*.log
+logs/
+*.log
 
 # Encrypted files
-encrypted/*.enc
+encrypted/
+*.enc
 
 # Decrypted files
-decrypted/*
+decrypted/
+
+# Encryption keys
+*.key
+
+# Environment and secrets
+.env
+.env.*
+.streamlit/secrets.toml
 
 # OS files
 Thumbs.db
@@ -27,3 +39,10 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Test files
+*.bak
