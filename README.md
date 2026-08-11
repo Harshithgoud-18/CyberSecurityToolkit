@@ -94,7 +94,7 @@ python main.py
       Cyber Security Toolkit
 ========================================
 ### Main Menu
-screenshots/main_menu.png
+![Main Menu](screenshots/main_menu.png)
 1. Password Strength Checker
 
 2. Text SHA-256 Generator
