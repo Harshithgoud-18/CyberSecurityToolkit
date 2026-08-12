@@ -151,27 +151,6 @@ python main.py
 
 ![File Encryption Tool](screenshots/File_Encryption_Tool.png)
 
-text
-========================================
-      Cyber Security Toolkit
-========================================
-### Main Menu
-
-1. Password Strength Checker
-2. Text SHA-256 Generator
-3. File SHA-256 Generator
-4. Compare Two Files
-5. DNS Lookup
-6. Port Scanner
-7. Log Analyzer
-8. Website Security Scanner
-9. Packet Sniffer
-10. Password Manager
-11. Vulnerability Scanner
-12. File Encryption Tool
-0. Exit
-
-
 ---
 
 ## 📈 Future Improvements
