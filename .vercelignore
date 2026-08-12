@@ -1,0 +1,14 @@
+CyberSecurityToolkit/
+data/
+decrypted/
+encrypted/
+files/
+keys/
+logs/
+reports/
+screenshots/
+__pycache__/
+*.pyc
+.env
+.env.*
+.streamlit/

@@ -1,5 +1,11 @@
 # 🔐 Cyber Security Toolkit
 
+## Vercel deployment
+
+This repository includes a Vercel-compatible serverless interface in `api/index.py`. Import the repository into Vercel (or run `vercel` from this directory); the `vercel.json` rewrite routes the site to it. Visit `/health` after deployment to verify the function.
+
+The hosted edition provides password-strength checks, SHA-256 hashing, file comparison, and log analysis. Packet sniffing, port/vulnerability scanning, and disk-backed password/encryption-key tools are unavailable because Vercel functions are ephemeral and lack privileged networking and durable private storage.
+
 A Python-based Cyber Security Toolkit that provides multiple security utilities in one application. This project is designed for students and beginners to learn cybersecurity concepts through practical tools.
 
 ---
