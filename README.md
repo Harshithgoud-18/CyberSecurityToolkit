@@ -94,31 +94,19 @@ text
       Cyber Security Toolkit
 ========================================
 ### Main Menu
-![Main Menu](screenshots/main_menu.png)
+
 1. Password Strength Checker
-![Password Checker](screenshots/password_checker.png)
 2. Text SHA-256 Generator
-![Text SHA-256 Generator](screenshots/hash_generator.png)
 3. File SHA-256 Generator
-![File SHA-256 Generator](screenshots/file_hash.png)
 4. Compare Two Files
-![Compare 2 files](screenshots/file_hash.png)
 5. DNS Lookup
-![DNS Lookup](screenshots/dns_lookup.png)
 6. Port Scanner
-![Port Scanner](screenshots/port_scanner.png)
 7. Log Analyzer
-![Log Analyzer](screenshots/log_analyzer.png)
 8. Website Security Scanner
-![Website Security Scanner](screenshots/website_scanner.png)
 9. Packet Sniffer
-![Packet Sniffer](screenshots/packet_sniffer.png)
 10. Password Manager
-![Password Manager](screenshots/password_manager.png)
 11. Vulnerability Scanner
-![Vulnerability Scanner](screenshots/vulnerability_scanner.png)
 12. File Encryption Tool
-![File Encryption Tool](screenshots/File_Encryption_Tool.png)
 0. Exit
 
 
