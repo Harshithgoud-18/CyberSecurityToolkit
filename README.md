@@ -1,10 +1,10 @@
 # 🔐 Cyber Security Toolkit
 
-## Vercel deployment
+## Render deployment
 
-This repository includes a Vercel-compatible serverless interface in `api/index.py`. Import the repository into Vercel (or run `vercel` from this directory); the `vercel.json` rewrite routes the site to it. Visit `/health` after deployment to verify the function.
+Render can host the complete Streamlit interface. The included `render.yaml` installs the Python dependencies and starts `app.py` with Render's assigned port. In the Render dashboard, select **New +** → **Blueprint**, connect this repository, and deploy the detected Blueprint.
 
-The hosted edition provides password-strength checks, SHA-256 hashing, file comparison, and log analysis. Packet sniffing, port/vulnerability scanning, and disk-backed password/encryption-key tools are unavailable because Vercel functions are ephemeral and lack privileged networking and durable private storage.
+The default Render filesystem is ephemeral: files, encryption keys, and password-manager data may be lost after a restart or redeploy. Packet capture also requires privileges normally unavailable to hosted containers. Do not use the public deployment to scan targets unless you own them or have explicit authorization.
 
 A Python-based Cyber Security Toolkit that provides multiple security utilities in one application. This project is designed for students and beginners to learn cybersecurity concepts through practical tools.
 
