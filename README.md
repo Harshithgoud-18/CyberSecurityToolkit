@@ -101,6 +101,8 @@ python main.py
 
 ## 📸 Sample Output
 
+![Cyber Security Toolkit main menu](screenshots/main_menu.png)
+
 text
 ========================================
       Cyber Security Toolkit
