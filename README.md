@@ -48,8 +48,8 @@ A Python-based Cyber Security Toolkit that provides multiple security utilities 
 
 ```text
 cybersecurity-toolkit/
-│
-├── main.py
+├── app.py                      # Streamlit web application
+├── main.py                     # Command-line application
 ├── password_checker.py
 ├── hash_generator.py
 ├── dns_lookup.py
@@ -61,14 +61,16 @@ cybersecurity-toolkit/
 ├── vulnerability_scanner.py
 ├── file_encryption.py
 ├── activity_logger.py
-├── requirements.txt
-│
-├── data/
-├── encrypted/
-├── files/
-├── keys/
-├── logs/
-└── reports/
+├── requirements.txt            # Python dependencies
+├── render.yaml                 # Render deployment configuration
+├── screenshots/                # Toolkit screenshots used in this README
+├── data/                       # Local password-manager data
+├── encrypted/                  # Locally encrypted files
+├── decrypted/                  # Locally decrypted files
+├── files/                      # Temporary local input files
+├── keys/                       # Local encryption keys
+├── logs/                       # Local activity logs
+└── reports/                    # Generated reports
 ```
 
 ## ⚙️ Installation
