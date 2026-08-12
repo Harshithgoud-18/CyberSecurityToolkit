@@ -1,5 +1,11 @@
 # 🔐 Cyber Security Toolkit
 
+## Live Demo
+
+The application is deployed on Render: [Cyber Security Toolkit](https://cyber-security-toolkit-40ub.onrender.com)
+
+> The free Render service may take up to a minute to start after inactivity.
+
 ## Render deployment
 
 Render can host the complete Streamlit interface. The included `render.yaml` installs the Python dependencies and starts `app.py` with Render's assigned port. In the Render dashboard, select **New +** → **Blueprint**, connect this repository, and deploy the detected Blueprint.
