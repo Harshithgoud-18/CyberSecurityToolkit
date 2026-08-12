@@ -103,6 +103,54 @@ python main.py
 
 ![Cyber Security Toolkit main menu](screenshots/main_menu.png)
 
+### Password Strength Checker
+
+![Password Strength Checker](screenshots/password_checker.png)
+
+### SHA-256 Hash Generator
+
+![SHA-256 Hash Generator](screenshots/hash_generator.png)
+
+### File Hash Generator
+
+![File Hash Generator](screenshots/file_hash.png)
+
+### File Comparison
+
+![File Comparison](screenshots/file_comparison.png)
+
+### DNS Lookup
+
+![DNS Lookup](screenshots/dns_lookup.png)
+
+### Port Scanner
+
+![Port Scanner](screenshots/port_scanner.png)
+
+### Log Analyzer
+
+![Log Analyzer](screenshots/log_analyzer.png)
+
+### Website Security Scanner
+
+![Website Security Scanner](screenshots/website_scanner.png)
+
+### Packet Sniffer
+
+![Packet Sniffer](screenshots/packet_sniffer.png)
+
+### Password Manager
+
+![Password Manager](screenshots/password_manager.png)
+
+### Vulnerability Scanner
+
+![Vulnerability Scanner](screenshots/vulnerability_scanner.png)
+
+### File Encryption Tool
+
+![File Encryption Tool](screenshots/File_Encryption_Tool.png)
+
 text
 ========================================
       Cyber Security Toolkit
